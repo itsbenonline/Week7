@@ -1,1 +1,5 @@
 # Week7
+
+Q1 I+0.0005 R=10000
+Q2 I=0.000333 R=15000
+Q3 Va=3.333 Ra loss is 1.666V Vb=1.666 Rb loss 1.666V
